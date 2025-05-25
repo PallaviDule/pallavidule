@@ -44,7 +44,14 @@ Responsive Design, Agile Methodolgies
 * LinkedIn: [linkedin.com/in/pallavi-dule](https://www.linkedin.com/in/pallavi-dule/)
 * Email: [pallavidule@gmail.com](mailto:pallavidule@gmail.com)
 * LeetCode: [Profile](https://leetcode.com/u/pallavidule/)
-* Location: Köln, Germany
+  
+## Work Authorization
+
+- Based in Köln, Germany  
+- Valid dependent visa (Spouse of Blue Card holder)  
+- Residence permit valid until 2028  
+- Eligible to work in Germany without sponsorship
+
 
 <!--
 **PallaviDule/pallavidule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
