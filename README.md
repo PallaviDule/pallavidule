@@ -14,7 +14,7 @@ Node.js, MySQL, Postgresql
 **Cloud & DevOps (Basic):**  
 AWS (S3, Lambda, ECS, EC2), Docker, Drone CI  
 
-**Other**
+**Other**  
 Responsive Design, Agile Methodolgies
 
 ## Personal Projects
