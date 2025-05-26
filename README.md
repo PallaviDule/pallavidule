@@ -75,8 +75,11 @@ I'm Pallavi Dule, a passionate **Frontend Developer** with over **9 years of exp
 ## Github Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pallavidule&layout=compact&theme=radical)
 
-
 <!--
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pallavidule&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
+
 **PallaviDule/pallavidule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
