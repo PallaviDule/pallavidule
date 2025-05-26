@@ -68,11 +68,15 @@ I'm Pallavi Dule, a passionate **Frontend Developer** with over **9 years of exp
 - Residence permit valid until 2028  
 - Eligible to work in Germany without sponsorship
 
+## Github Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pallavidule&layout=compact&theme=radical)
+
 
 <!--
 **PallaviDule/pallavidule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![Pallavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallavidule&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
