@@ -30,8 +30,8 @@ I'm Pallavi Dule, a passionate **Frontend Developer** with over **9 years of exp
 ![Drone CI](https://img.shields.io/badge/-Drone%20CI-212121?style=flat-square&logo=drone&logoColor=white)
 
 **Other:**      
-    ![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-0A0A0A?style=flat-square)
-  ![Agile](https://img.shields.io/badge/-Agile-02569B?style=flat-square)
+![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-0A0A0A?style=flat-square)
+![Agile](https://img.shields.io/badge/-Agile-02569B?style=flat-square)
 
 ## Personal Projects
 
@@ -55,11 +55,11 @@ I'm Pallavi Dule, a passionate **Frontend Developer** with over **9 years of exp
 
 * A cleanly built React small projects repository.
 
-## Contact Info
+## Contact Me
 
-* LinkedIn: [linkedin.com/in/pallavi-dule](https://www.linkedin.com/in/pallavi-dule/)
-* Email: [pallavidule@gmail.com](mailto:pallavidule@gmail.com)
-* LeetCode: [Profile](https://leetcode.com/u/pallavidule/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavi-dule/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pallavidule@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/pallavidule/)
   
 ## Work Authorization
 
