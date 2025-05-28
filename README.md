@@ -84,7 +84,9 @@ I'm Pallavi Dule, a passionate **Frontend Developer** with over **9 years of exp
 
 Here are some ideas to get you started:
 ![Pallavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallavidule&show_icons=true&theme=radical)
-
+<div align='center'>
+  <img src="https://komarev.com/ghpvc/?username=pallavidule&style=flat-square&color=blue" alt="Profile Views" />
+</div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
