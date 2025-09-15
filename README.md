@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Pallavi Dule, a passionate **Frontend Developer** with over **9 years of experience** building scalable and user-friendly web applications. I specialize in **React**, **JavaScript**, **typecript** and crafting clean, performant UI components. Currently exploring opportunities in **Germany**.
+I'm Pallavi Dule, a passionate **Frontend Developer** with over **9 years of experience** building scalable and user-friendly web applications. I specialize in **React**, **JavaScript**, **Typescript** and crafting clean, performant UI components. Currently exploring opportunities in **Germany**.
 
 ## Tech Stack
 **Frontend:**    
